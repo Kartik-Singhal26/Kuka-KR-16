@@ -5,4 +5,4 @@ This is a project based on PID control of an industrial manipulator: Kuka KR-16.
 This folder contains .SLDPRT files for individual parts of the manipulator and the complete assembly (.SLDASM file).
 
 # Kuka MatLab Files
-This folder contains the simulink model (Kuka.slx) of the manipulator converted using simechanics. A tuned PID controller is used for controlling each joint's motion.
+This folder contains the simulink model (Kuka.slx) of the manipulator converted using simechanics. To control each joint's motion a PID controller is used.
